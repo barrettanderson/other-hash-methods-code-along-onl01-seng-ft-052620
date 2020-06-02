@@ -12,3 +12,5 @@ def get_the_values(groceries)
   groceries.values
   #code your solution here!
 end
+
+get_the_values
